@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 's/ .*//' Acrostic
+cut -1 |paste -s -d "
